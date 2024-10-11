@@ -1,0 +1,1 @@
+This repository holds a collection of my forum posts for the MSc Financial Engineering program at WorldQuant University. The content is continuously evolving as I refine and add more information over time.
